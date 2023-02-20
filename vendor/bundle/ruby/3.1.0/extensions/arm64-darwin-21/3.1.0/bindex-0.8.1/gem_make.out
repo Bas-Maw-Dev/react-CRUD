@@ -1,0 +1,18 @@
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-7n69dj sitelibdir\=./.gem.20230220-23412-7n69dj clean
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-7n69dj sitelibdir\=./.gem.20230220-23412-7n69dj
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-7n69dj sitelibdir\=./.gem.20230220-23412-7n69dj install
+/Users/sebastien.maw/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20230220-23412-7n69dj/skiptrace/internal
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-7n69dj sitelibdir\=./.gem.20230220-23412-7n69dj clean

@@ -1,0 +1,22 @@
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+/Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-v0ovgt sitelibdir\=./.gem.20230220-23412-v0ovgt clean
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-v0ovgt sitelibdir\=./.gem.20230220-23412-v0ovgt
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-v0ovgt sitelibdir\=./.gem.20230220-23412-v0ovgt install
+/Users/sebastien.maw/homebrew/opt/coreutils/bin/ginstall -c -m 0755 console.bundle ./.gem.20230220-23412-v0ovgt/io
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-v0ovgt sitelibdir\=./.gem.20230220-23412-v0ovgt clean

@@ -1,0 +1,18 @@
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-nko0wc sitelibdir\=./.gem.20230220-23412-nko0wc clean
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-nko0wc sitelibdir\=./.gem.20230220-23412-nko0wc
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-nko0wc sitelibdir\=./.gem.20230220-23412-nko0wc install
+/Users/sebastien.maw/homebrew/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20230220-23412-nko0wc/bootsnap
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-nko0wc sitelibdir\=./.gem.20230220-23412-nko0wc clean

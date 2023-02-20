@@ -1,0 +1,19 @@
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+/Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-so530b sitelibdir\=./.gem.20230220-23412-so530b clean
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-so530b sitelibdir\=./.gem.20230220-23412-so530b
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-so530b sitelibdir\=./.gem.20230220-23412-so530b install
+/Users/sebastien.maw/homebrew/opt/coreutils/bin/ginstall -c -m 0755 debug.bundle ./.gem.20230220-23412-so530b/debug
+
+current directory: /Users/sebastien.maw/Projects/Rails/React/react-CRUD/vendor/bundle/ruby/3.1.0/gems/debug-1.7.1/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230220-23412-so530b sitelibdir\=./.gem.20230220-23412-so530b clean
